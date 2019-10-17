@@ -1,0 +1,6 @@
+
+*.csproj
+*/.vs/
+BlankQuestProject/Library/
+BlankQuestProject/obj/
+BlankQuestProject/BlankQuestProject.sln
